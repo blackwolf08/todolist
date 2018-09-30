@@ -1,6 +1,6 @@
 #header{
 	width: 100%
-	border: 2px solid pink;
+	border: 2px solid red;
 	border-radius: 30%;
 	text-align: center;
 }
@@ -15,8 +15,8 @@ body{
 
 #container{
 	width: 30%;
-	background-color: pink;
-	border: 1px solid pink;
+	background-color: black;
+	border: 100px dashed black;
 	margin: 100px auto;
 }
 
